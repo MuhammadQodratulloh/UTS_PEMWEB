@@ -1,0 +1,21 @@
+UTS Pemrograman Web
+
+Nama: Muhammad Qodratulloh
+NIM: 22416255201183
+Kelas: IF22A
+
+Teknik Informatika
+
+1.  Dalam pengembangan aplikasi, sebuah framework adalah kerangka atau struktur kerja yang telah disediakan untuk membantu programmer dalam membuat aplikasi.
+    framework menyediakan alat dan aturan baku yang mempercepat proses pengembangan.
+    contoh: Membangun rumah. Tukang banguna bisa mulai dari awal, dengan membuat membuat pondasi. 
+    Atau, bisa menggunakan bahan-bahan konstruksi standar, rencana yang telah siap, dan metode yang telah diuji untuk mempercepat proses pembangunan.
+
+2.1. Pembuatan Aplikasi Laboratorium
+
+2.2.    Jobdesk:   
+        Ezy: Membuat Website
+        Ihza: Membuat Source Code
+        Qodrat: Membuat Database
+
+2.3 Pengecekan Laboran antara ketersediaan barang untuk diperbaiki atu dikembalikan lagi ke laboran untuk pengajuan, karena maintenance itu sendiri lebih fokus pada bagian kerusakan sehingga apabila bahan atau barang ada yang bermasalah maka bisa langsung diperbaiki apabila bahan itu tersedia paabila belum ada nanti minta pengajuan terlebih dahulu ke lab
